@@ -1,0 +1,7 @@
+{
+  "ARCHIVE": "archive",
+  "kEY": [ "DIR1", "DIR2", "DIR3" ],
+  "DIR1": "DIR/DIR1/",
+  "DIR2": "DIR/DIR2/",
+  "DIR3": "DIR/DIR3/"
+}
